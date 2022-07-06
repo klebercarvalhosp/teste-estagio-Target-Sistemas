@@ -1,0 +1,23 @@
+
+IDE CodeBLocks
+
+- Porfavor utilize os dados abaixo para testar programa
+
+
+>>>>>Atenção<<<<<< {
+Selecione tudo e cole no console para testar , 
+nao precisa colocar dados por dado;
+}
+
+
+
+SP 
+67836.43
+RJ 
+36678.66
+MG 
+29229.88
+ES 
+27165.48
+Outros
+19849.53
